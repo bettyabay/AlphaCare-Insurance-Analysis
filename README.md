@@ -26,5 +26,18 @@ Location details and other significant features.
 Evaluate the most influential features affecting claims and premiums.
 Provide actionable recommendations to improve pricing strategies and product offerings.
 
+**Skills Developed**
+Data Engineering: Managing and processing large insurance datasets.
+Predictive Analytics: Risk and claims forecasting using statistical and machine learning models.
+Machine Learning Engineering: Training and evaluating models for optimal premium predictions.
+A/B Testing: Formulating and testing hypotheses to derive actionable insights
+
 **Final Report:**
 Comprehensive documentation of methodologies, findings, and recommendations.
+
+**Technologies and Tools**
+Python (Pandas, NumPy, Scikit-learn, Statsmodels)
+Jupyter Notebooks for Exploratory Data Analysis
+Matplotlib and Seaborn for Visualization
+Machine Learning Frameworks (Scikit-learn, XGBoost)
+Git for version control
